@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVERS=("10.1.0.9" "10.1.0.11" "10.1.0.13" "10.1.0.14")
+SERVERS=("server1" "server2" "server3" "server4")
 LOG_FILE="var/log/syslog"
 USER="oadetola"
 LOG_DIR="/home/oadetola/logs"
